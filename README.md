@@ -1,0 +1,2 @@
+# BelajarKNN
+Tugas DataMining
